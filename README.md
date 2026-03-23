@@ -22,7 +22,7 @@ Chào mừng bạn đến với trang GitHub cá nhân của tôi!
 using namespace std;
 
 int main() {
-    string name = "Do Tien Dat";
+    string name = "Bui Ngoc Phuong Nam";
     string major = "Computer Engineering";
     
     cout << "Xin chào! Tôi là " << name << "." << endl;
